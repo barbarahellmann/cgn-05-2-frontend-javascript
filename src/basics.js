@@ -74,7 +74,7 @@ for(let i:number = 0; i < 5; i++) {
 
 let j:number = 0;
 while (j > 3) {
-    console.log(Schleifendurgang #" + j)
+    console.log("Schleifendurgang #" + j)
         j++
 }
 
