@@ -1,0 +1,3 @@
+var variable1:number = 42 */veraltet
+const variable2:string = "Hello" //Variable kann nicht mehr verändert werden
+let variable 3: boolean = true   //Variable kann verändert werden
