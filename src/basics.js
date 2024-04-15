@@ -79,4 +79,6 @@ while (j > 3) {
 }
 
 
+// truthy/falsy
+const false:boolean = false // falsy =  alles was zu false wird= false, 0, null, undefined, NaN
 

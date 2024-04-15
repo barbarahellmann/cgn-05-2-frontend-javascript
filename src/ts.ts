@@ -15,3 +15,5 @@ const myArray3:boolean[] = [true, false, false]
 
 let anything:any = 10
 anything = 5
+
+
